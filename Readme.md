@@ -1,1 +1,1 @@
-Lambda + API Gateway + Dynamo DB serverless stack. CRUD API.
+Lambda + API Gateway + DynamoDB serverless stack. CRUD API.
